@@ -1,153 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <customer_id>3453450</customer_id>
-      <name>James Smith</name>
-      <email>James.Smith@comp.com</email>
-      <gender>M</gender>
-      <age>32</age>
-      <income>55000</income>
-      <postalcode>3013</postalcode>
-      <marital_status>M</marital_status>
+      <name>James Bond</name>
+      <designation>Accountant</designation>
+      <salary>$170,750</salary>
+      <joining_date>2011/07/25</joining_date>
+      <office>Tokyo</office>
+      <extension>8422</extension>
     </data>
     <data>
-      <customer_id>3453451</customer_id>
-      <name>John Davison</name>
-      <email>John.Davison@comp.com</email>
-      <gender>M</gender>
-      <age>29</age>
-      <income>62000</income>
-      <postalcode>2122</postalcode>
-      <marital_status>S</marital_status>
+      <name>Brielle Williamson</name>
+      <designation>Integration Specialist</designation>
+      <salary>$372,000</salary>
+      <joining_date>2012/12/02</joining_date>
+      <office>New York</office>
+      <extension>4804</extension>
     </data>
     <data>
-      <customer_id>3453452</customer_id>
-      <name>Sarah Daniels</name>
-      <email>Sarah.Daniels@comp.com</email>
-      <gender>F</gender>
-      <age>22</age>
-      <income>43000</income>
-      <postalcode>2522</postalcode>
-      <marital_status>S</marital_status>
+      <name>Ashton Cox</name>
+      <designation>Junior Technical Author</designation>
+      <salary>$86,000</salary>
+      <joining_date>2009/01/12</joining_date>
+      <office>San Francisco</office>
+      <extension>1562</extension>
     </data>
     <data>
-      <customer_id>3453453</customer_id>
-      <name>Sally Jones</name>
-      <email>Sally.Jones@comp.com</email>
-      <gender>F</gender>
-      <age>29</age>
-      <income>98000</income>
-      <postalcode>2000</postalcode>
-      <marital_status>D</marital_status>
+      <name>Airi Satou</name>
+      <designation>Accountant</designation>
+      <salary>$162,700</salary>
+      <joining_date>2008/11/28</joining_date>
+      <office>Tokyo</office>
+      <extension>5407</extension>
     </data>
     <data>
-      <customer_id>3453454</customer_id>
-      <name>David Waters</name>
-      <email>David.Waters@comp.com</email>
-      <gender>M</gender>
-      <age>30</age>
-      <income>72000</income>
-      <postalcode>3000</postalcode>
-      <marital_status>M</marital_status>
+      <name>Caesar Vance</name>
+      <designation>Pre-Sales Support</designation>
+      <salary>$106,450</salary>
+      <joining_date>2011/12/12</joining_date>
+      <office>New York</office>
+      <extension>8330</extension>
     </data>
     <data>
-      <customer_id>3453455</customer_id>
-      <name>Isobel Archer</name>
-      <email>Isobel.Archer@comp.com</email>
-      <gender>F</gender>
-      <age>35</age>
-      <income>53000</income>
-      <postalcode>3037</postalcode>
-      <marital_status>S</marital_status>
+      <name>Shad Decker</name>
+      <designation>Regional Director</designation>
+      <salary>$183,000</salary>
+      <joining_date>2008/11/13</joining_date>
+      <office>Edinburgh</office>
+      <extension>6373</extension>
     </data>
     <data>
-      <customer_id>3453456</customer_id>
-      <name>Dianne Wilson</name>
-      <email>Dianne.Wilson@comp.com</email>
-      <gender>F</gender>
-      <age>35</age>
-      <income>53000</income>
-      <postalcode>3037</postalcode>
-      <marital_status>S</marital_status>
+      <name>Cedric Kelly</name>
+      <designation>Senior Javascript Developer</designation>
+      <salary>$433,060</salary>
+      <joining_date>2012/03/29</joining_date>
+      <office>Edinburgh</office>
+      <extension>6224</extension>
     </data>
     <data>
-      <customer_id>3453457</customer_id>
-      <name>Dennis Potter</name>
-      <email>Dennis.Potter@comp.com</email>
-      <gender>M</gender>
-      <age>64</age>
-      <income>20000</income>
-      <postalcode>3067</postalcode>
-      <marital_status>D</marital_status>
+      <name>Haley Kennedy</name>
+      <designation>Senior Marketing Designer</designation>
+      <salary>$313,500</salary>
+      <joining_date>2012/12/18</joining_date>
+      <office>London</office>
+      <extension>3597</extension>
     </data>
     <data>
-      <customer_id>3453458</customer_id>
-      <name>Jane Nortan</name>
-      <email>Jane.Nortan@comp.com</email>
-      <gender>F</gender>
-      <age>28</age>
-      <income>95000</income>
-      <postalcode>3035</postalcode>
-      <marital_status>M</marital_status>
+      <name>Colleen Hurst</name>
+      <designation>Javascript Developer</designation>
+      <salary>$205,500</salary>
+      <joining_date>2009/09/15</joining_date>
+      <office>San Francisco</office>
+      <extension>2360</extension>
     </data>
     <data>
-      <customer_id>3453459</customer_id>
-      <name>Janet Wilson</name>
-      <email>Janet.Wilson@comp.com</email>
-      <gender>F</gender>
-      <age>30</age>
-      <income>110000</income>
-      <postalcode>3000</postalcode>
-      <marital_status>m</marital_status>
+      <name>Dai Rios</name>
+      <designation>Personnel Lead</designation>
+      <salary>$217,500</salary>
+      <joining_date>2012/09/26</joining_date>
+      <office>Edinburgh</office>
+      <extension>2290</extension>
     </data>
     <data>
-      <customer_id>3453460</customer_id>
-      <name>Abhijeet Singh</name>
-      <email>Abhijeet.Singh@comp.com</email>
-      <gender>M</gender>
-      <age>32</age>
-      <income>110000</income>
-      <postalcode>3896</postalcode>
-      <marital_status>M</marital_status>
+      <name>Herrod Chandler</name>
+      <designation>Sales Assistant</designation>
+      <salary>$137,500</salary>
+      <joining_date>2012/08/06</joining_date>
+      <office>San Francisco</office>
+      <extension>9608</extension>
     </data>
     <data>
-      <customer_id>3453461</customer_id>
-      <name>Chin Jack</name>
-      <email>Chin.Jack@comp.com</email>
-      <gender>M</gender>
-      <age>39</age>
-      <income>42400</income>
-      <postalcode>2125</postalcode>
-      <marital_status>M</marital_status>
+      <name>Rhona Davidson</name>
+      <designation>Integration Specialist</designation>
+      <salary>$327,900</salary>
+      <joining_date>2010/10/14</joining_date>
+      <office>Tokyo</office>
+      <extension>6200</extension>
     </data>
     <data>
-      <customer_id>3453462</customer_id>
-      <name>Greenwald Janice</name>
-      <email>Greenwald.Janice@comp.com</email>
-      <gender>F</gender>
-      <age>50</age>
-      <income>38000</income>
-      <postalcode>9805</postalcode>
-      <marital_status>D</marital_status>
+      <name>Sonya Frost</name>
+      <designation>Software Engineer</designation>
+      <salary>$103,600</salary>
+      <joining_date>2008/12/13</joining_date>
+      <office>Edinburgh</office>
+      <extension>1667</extension>
     </data>
     <data>
-      <customer_id>3453463</customer_id>
-      <name>Wood Deborh</name>
-      <email>Wood.Deborh@comp.com</email>
-      <gender>F</gender>
-      <age>26</age>
-      <income>56000</income>
-      <postalcode>5656</postalcode>
-      <marital_status>S</marital_status>
+      <name>Jena Gaines</name>
+      <designation>Office Manager</designation>
+      <salary>$90,560</salary>
+      <joining_date>2008/12/19</joining_date>
+      <office>London</office>
+      <extension>3814</extension>
     </data>
     <data>
-      <customer_id>3453464</customer_id>
-      <name>Parker Mary</name>
-      <email>Parker.Mary@comp.com</email>
-      <gender>m</gender>
-      <age>56</age>
-      <income>120000</income>
-      <postalcode>1256</postalcode>
-      <marital_status>m</marital_status>
+      <name>Quinn Flynn</name>
+      <designation>Support Lead</designation>
+      <salary>$342,000</salary>
+      <joining_date>2013/03/03</joining_date>
+      <office>Edinburgh</office>
+      <extension>9497</extension>
     </data>
   </employees>
