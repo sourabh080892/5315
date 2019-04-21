@@ -18,14 +18,12 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('customer_id').text(),
                 $(this).find('name').text(),
-                $(this).find('email').text(),
-                $(this).find('gender').text(),
-                $(this).find('age').text(),
-                $(this).find('income').text()
-                $(this).find('postalcode').text()
-                $(this).find('marital_status').text()
+                $(this).find('designation').text(),
+                $(this).find('office').text(),
+                $(this).find('extension').text(),
+                $(this).find('joining_date').text(),
+                $(this).find('salary').text()
               ] ).draw( false );
              });
             }
@@ -38,27 +36,23 @@
   <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Customer ID</th>
             <th>Name</th>
-            <th>Email</th>
-            <th>Gender</th>
-            <th>Age</th>
-            <th>Income</th>
-            <th>Postal Code</th>
-            <th>Marital Status</th>
+            <th>Designation</th>
+            <th>Office</th>
+            <th>Extension</th>
+            <th>Joining Date</th>
+            <th>Salary</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
-            <th>Customer ID</th>
             <th>Name</th>
-            <th>Email</th>
-            <th>Gender</th>
-            <th>Age</th>
-            <th>Income</th>
-            <th>Postal Code</th>
-            <th>Marital Status</th>
+            <th>Designation</th>
+            <th>Office</th>
+            <th>Extension</th>
+            <th>Joining Date</th>
+            <th>Salary</th>
         </tr>
     </tfoot>
   </table>
