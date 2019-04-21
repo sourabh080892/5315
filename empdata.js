@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "customer_id" : "3453450"
+      "customer_id" : "3453450",
       "name": "James Smith",
       "email": "James.Smith@comp.com",
       "gender": "M",
@@ -11,7 +11,7 @@
       "marital_status": "M"
     },
     {
-      "customer_id" : "3453451"
+      "customer_id" : "3453451",
       "name": "John Davison",
       "email": "John.Davison@comp.com",
       "gender": "M",
@@ -21,7 +21,7 @@
       "marital_status": "S"
     },
     {
-      "customer_id" : "3453452"
+      "customer_id" : "3453452",
       "name": "Sarah Daniels",
       "email": "Sarah.Daniels@comp.com",
       "gender": "F",
@@ -31,7 +31,7 @@
       "marital_status": "S"
     },
     {
-      "customer_id" : "3453453"
+      "customer_id" : "3453453",
       "name": "Sally Jones",
       "email": "Sally.Jones@comp.com",
       "gender": "F",
@@ -41,7 +41,7 @@
       "marital_status": "D"
     },
     {
-      "customer_id" : "3453454"
+      "customer_id" : "3453454",
       "name": "David Waters",
       "email": "David.Waters@comp.com",
       "gender": "M",
@@ -51,7 +51,7 @@
       "marital_status": "M"
     },
     {
-      "customer_id" : "3453455"
+      "customer_id" : "3453455",
       "name": "Isobel Archer",
       "email": "Isobel.Archer@comp.com",
       "gender": "F",
@@ -61,7 +61,7 @@
       "marital_status": "S"
     },
     {
-     "customer_id" : "3453456"
+     "customer_id" : "3453456",
       "name": "Dianne Wilson",
       "email": "Dianne.Wilson@comp.com",
       "gender": "F",
@@ -71,7 +71,7 @@
       "marital_status": "S"
     },
     {
-      "customer_id" : "3453457"
+      "customer_id" : "3453457",
       "name": "Dennis Potter",
       "email": "Dennis.Potter@comp.com",
       "gender": "M",
@@ -81,7 +81,7 @@
       "marital_status": "D"
     },
     {
-      "customer_id" : "3453458"
+      "customer_id" : "3453458",
       "name": "Jane Nortan",
       "email": "Jane.Nortan@comp.com",
       "gender": "F",
@@ -91,7 +91,7 @@
       "marital_status": "M"
     },
     {
-      "customer_id" : "3453459"
+      "customer_id" : "3453459",
       "name": "Janet Wilson",
       "email": "Janet.Wilson@comp.com",
       "gender": "F",
@@ -101,7 +101,7 @@
       "marital_status": "M"
     },
     {
-      "customer_id" : "3453460"
+      "customer_id" : "3453460",
       "name": "Abhijeet Singh",
       "email": "Abhijeet.Singh@comp.com",
       "gender": "M",
@@ -111,7 +111,7 @@
       "marital_status": "M"
     },
     {
-      "customer_id" : "3453461"
+      "customer_id" : "3453461",
       "name": "Chin Jack",
       "email": "Chin.Jack@comp.com",
       "gender": "M",
@@ -121,7 +121,7 @@
       "marital_status": "M"
     },
     {
-      "customer_id" : "3453462"
+      "customer_id" : "3453462",
       "name": "Greenwald Janice",
       "email": "Greenwald.Janice@comp.com",
       "gender": "F",
@@ -131,7 +131,7 @@
       "marital_status": "D"
     },
     {
-      "customer_id" : "3453463"
+      "customer_id" : "3453463",
       "name": "Wood Deborh",
       "email": "Wood.Deborh@comp.com",
       "gender": "F",
@@ -141,7 +141,7 @@
       "marital_status": "S"
     },
     {
-      "customer_id" : "3453464"
+      "customer_id" : "3453464",
       "name": "Parker Mary",
       "email": "Parker.Mary@comp.com",
       "gender": "M",
