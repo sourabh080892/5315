@@ -18,12 +18,12 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
+                $(this).find('customer_id').text(),
                 $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
-                $(this).find('joining_date').text(),
-                $(this).find('salary').text()
+                $(this).find('email').text(),
+                $(this).find('gender').text(),
+                $(this).find('age').text(),
+                $(this).find('income').text()
               ] ).draw( false );
              });
             }
