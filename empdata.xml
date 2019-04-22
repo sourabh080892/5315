@@ -7,6 +7,8 @@
       <gender>M</gender>
       <age>32</age>
       <income>55000</income>
+      <postalcode>3013</postalcode>
+      <marital_status>M</marital_status>
     </data>
     <data>
       <customer_id>3453451</customer_id>
@@ -15,6 +17,8 @@
       <gender>M</gender>
       <age>29</age>
       <income>62000</income>
+      <postalcode>2122</postalcode>
+      <marital_status>S</marital_status>
     </data>
     <data>
       <customer_id>3453452</customer_id>
@@ -23,6 +27,8 @@
       <gender>F</gender>
       <age>22</age>
       <income>43000</income>
+      <postalcode>2522</postalcode>
+      <marital_status>S</marital_status>
     </data>
     <data>
       <customer_id>3453453</customer_id>
@@ -31,6 +37,8 @@
       <gender>F</gender>
       <age>29</age>
       <income>98000</income>
+      <postalcode>2000</postalcode>
+      <marital_status>D</marital_status>
     </data>
     <data>
       <customer_id>3453454</customer_id>
@@ -39,6 +47,8 @@
       <gender>M</gender>
       <age>30</age>
       <income>72000</income>
+      <postalcode>3000</postalcode>
+      <marital_status>M</marital_status>
     </data>
     <data>
       <customer_id>3453455</customer_id>
@@ -47,6 +57,8 @@
       <gender>F</gender>
       <age>35</age>
       <income>53000</income>
+      <postalcode>3037</postalcode>
+      <marital_status>S</marital_status>
     </data>
     <data>
       <customer_id>3453456</customer_id>
@@ -55,6 +67,8 @@
       <gender>F</gender>
       <age>35</age>
       <income>53000</income>
+      <postalcode>3037</postalcode>
+      <marital_status>S</marital_status>
     </data>
     <data>
       <customer_id>3453457</customer_id>
@@ -63,6 +77,8 @@
       <gender>M</gender>
       <age>64</age>
       <income>20000</income>
+      <postalcode>3067</postalcode>
+      <marital_status>D</marital_status>
     </data>
     <data>
       <customer_id>3453458</customer_id>
@@ -71,6 +87,8 @@
       <gender>F</gender>
       <age>28</age>
       <income>95000</income>
+      <postalcode>3035</postalcode>
+      <marital_status>M</marital_status>
     </data>
     <data>
       <customer_id>3453459</customer_id>
@@ -79,6 +97,8 @@
       <gender>F</gender>
       <age>30</age>
       <income>110000</income>
+      <postalcode>3000</postalcode>
+      <marital_status>m</marital_status>
     </data>
     <data>
       <customer_id>3453460</customer_id>
@@ -87,6 +107,8 @@
       <gender>M</gender>
       <age>32</age>
       <income>110000</income>
+      <postalcode>3896</postalcode>
+      <marital_status>M</marital_status>
     </data>
     <data>
       <customer_id>3453461</customer_id>
@@ -95,6 +117,8 @@
       <gender>M</gender>
       <age>39</age>
       <income>42400</income>
+      <postalcode>2125</postalcode>
+      <marital_status>M</marital_status>
     </data>
     <data>
       <customer_id>3453462</customer_id>
@@ -103,6 +127,8 @@
       <gender>F</gender>
       <age>50</age>
       <income>38000</income>
+      <postalcode>9805</postalcode>
+      <marital_status>D</marital_status>
     </data>
     <data>
       <customer_id>3453463</customer_id>
@@ -111,6 +137,8 @@
       <gender>F</gender>
       <age>26</age>
       <income>56000</income>
+      <postalcode>5656</postalcode>
+      <marital_status>S</marital_status>
     </data>
     <data>
       <customer_id>3453464</customer_id>
@@ -119,5 +147,7 @@
       <gender>m</gender>
       <age>56</age>
       <income>120000</income>
+      <postalcode>1256</postalcode>
+      <marital_status>m</marital_status>
     </data>
   </employees>
