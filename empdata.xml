@@ -98,7 +98,7 @@
       <age>30</age>
       <income>110000</income>
       <postalcode>3000</postalcode>
-      <marital_status>m</marital_status>
+      <marital_status>M</marital_status>
     </data>
     <data>
       <customer_id>3453460</customer_id>
@@ -148,6 +148,6 @@
       <age>56</age>
       <income>120000</income>
       <postalcode>1256</postalcode>
-      <marital_status>m</marital_status>
+      <marital_status>M</marital_status>
     </data>
   </employees>
